@@ -13,19 +13,12 @@
 ### ✅ 1. Update & Upgrade System
 Make sure your system is up to date:
 ```bash
+# Update and upgrade packages
 pkg update -y && pkg upgrade -y
 
+# Install Python and utilities
 pkg install python -y
-
 pkg install git curl nano -y
-
-pip install pyTelegramBotAPI requests
-
-pip install aiohttp
-
-pip install python-telegram-bot
-
-pip install pillow
 ```
 ### ✅ 2. Clone The Repository
 ```bash
