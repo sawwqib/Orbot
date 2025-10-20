@@ -33,6 +33,8 @@ git clone https://github.com/sawwqib/Orbot
 
 cd Orbot
 
+pip install -r requirements.txt
+
 nano main.py (Replace Your Bot Token)
 ```
 ### ✅ 3. Usage
