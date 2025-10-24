@@ -34,8 +34,6 @@ nano main.py (Replace Your Bot Token)
 ```bash
 python3 main.py
 ```
-## Check Telegram Bot
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram)](https://t.me/saqibtelehackbot)
 
 ### Repo Visits
 ![Visitor Count](https://count.getloli.com/@Orbot?name=Orbot&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
